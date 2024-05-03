@@ -68,6 +68,10 @@ public class MainClass {
 		
 		System.out.println("문자열로 변환된 값:" + numStr1);
 		
+		// 파이썬의 f스트링 같은 형식 문자 위의 내용이 더 편함. 자주씀. 위아래 둘다 사용가능
+		// 형식 문자열
+		System.out.printf("정수값 출력: %d", num1);
+		
 	}
 
 }
